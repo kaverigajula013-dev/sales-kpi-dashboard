@@ -1,2 +1,21 @@
-# sales-kpi-dashboard
-Sales performance analysis project using SQL, Python, and Power BI to analyze revenue trends and build KPI dashboards.
+# Sales Performance & KPI Dashboard
+
+## Project Overview
+This project analyzes sales data to identify revenue trends and key business performance indicators (KPIs).
+
+## Tools Used
+Python
+Pandas
+Matplotlib
+Seaborn
+SQL concepts
+
+## Objectives
+- Analyze sales performance across regions
+- Identify revenue trends
+- Visualize KPIs for business insights
+
+## Key Insights
+- Identified top performing regions
+- Analyzed revenue distribution
+- Built visualizations for KPI monitoring
